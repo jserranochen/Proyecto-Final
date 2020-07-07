@@ -24,7 +24,7 @@ Este proyecto lo realizamos con el simulador Proteus con los siguientes componen
 
 ### Circuito
 
-![Circuito](/image/1.jpg)
+![1](https://user-images.githubusercontent.com/66578651/86848227-3b7c5f00-c073-11ea-98dd-2059a25ed71d.JPG)
 
 ### c++
 
